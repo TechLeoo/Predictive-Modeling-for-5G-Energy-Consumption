@@ -54,9 +54,9 @@ data = data.drop("Time", axis = 1)
         # Transform BS Column
 data = pd.get_dummies(data, drop_first = True, dtype = np.int8)
 
-        #  Data Binning 
-data["load"] = pd.cut(x = data["load"], bins = 30, labels = False)
-data.ESMODE = pd.cut(x = data.ESMODE, bins = 30, labels = False)        
+#         #  Data Binning 
+# data["load"] = pd.cut(x = data["load"], bins = 30, labels = False)
+# data.ESMODE = pd.cut(x = data.ESMODE, bins = 30, labels = False)        
         
 # Further Data Preparation and Segregation
 x = data.drop("Energy", axis = 1)
