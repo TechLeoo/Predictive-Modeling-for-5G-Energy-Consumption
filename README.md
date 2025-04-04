@@ -64,16 +64,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ---
 
-## Skills Learned
-
-- Time series and multivariate data modeling  
-- Feature engineering for energy-related data  
-- Regression modeling with real-world datasets  
-- Energy efficiency analysis in telecom  
-- Model performance evaluation and tuning  
-
----
-
 ## Contributing
 
 Contributions are welcome!  
