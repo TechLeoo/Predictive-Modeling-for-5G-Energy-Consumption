@@ -34,16 +34,6 @@ By considering factors such as engineering configurations, traffic patterns, and
 - **Matplotlib**, **Seaborn** – Visualization
 - **Jupyter Notebook** – Interactive development
 
-## Installation
-
-### 1. Clone the repository:
-
-```bash
-git clone https://github.com/TechLeoo/Predictive-Modeling-for-5G-Energy-Consumption.git
-cd Predictive-Modeling-for-5G-Energy-Consumption
-Got it — let’s fix this **properly**. Here's the entire section you mentioned, fully rewritten in **clean, structured Markdown**, formatted **exactly** as it should be inside your `README.md` file:
-```
-
 ---
 
 ## Installation
